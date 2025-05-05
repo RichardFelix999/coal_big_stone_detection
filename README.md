@@ -16,3 +16,5 @@ and then add our improvement code to the project.We have released all the improv
 # citation
 Title{Optimized YOLOV8 for Real-Time Stone Detection and Risk Grading on Coal Mine Conveyor Belts }  
 Jourrnal{The Visual Computer}
+
+Origined from https://github.com/haixing777/FSFL-GW-yolo (datasets)
