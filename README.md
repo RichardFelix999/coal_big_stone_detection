@@ -18,3 +18,8 @@ Title{Optimized YOLOV8 for Real-Time Stone Detection and Risk Grading on Coal Mi
 Jourrnal{The Visual Computer}
 
 Origined from https://github.com/haixing777/FSFL-GW-yolo (datasets)
+
+python 3.10
+
+label making repo
+https://github.com/HumanSignal/labelImg

@@ -1,0 +1,5 @@
+train: E:/essay/FSFL-GW-yolo/dataset_v11/images/train2017
+
+
+names:
+  0: big_stone

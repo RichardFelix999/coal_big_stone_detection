@@ -3,3 +3,8 @@ opencv-python
 numpy
 matplotlib
 pyyaml
+
+pillow
+
+torch
+torchvision
